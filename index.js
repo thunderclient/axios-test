@@ -8,7 +8,7 @@ var https = require('https');
 
 var proxy = new https.Agent({
     rejectUnauthorized: false,
-    requestCert: false,
+    requestCert: true
 });
 
 axios.get(url, {
