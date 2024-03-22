@@ -6,4 +6,4 @@
 4. Check `url` value in index.js
 5. run `node index.js`
 
-Make necessary change to config to see which config is fixing the self certificate issue
+Make necessary changes to config to see which config is fixing the self certificate issue
